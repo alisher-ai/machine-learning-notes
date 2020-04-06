@@ -12,5 +12,6 @@ I usually use abbreviations when I take notes. Here I would like to list some ab
 |  grad.desc.   |gradient descent|
 |   prob.       | probability |
 | back. prop.   |backpropagation|
-
-
+| &#8593;       | larger/increasing |
+| &#8595;       | smaller/decreasing | 
+| | |
