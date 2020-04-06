@@ -3,5 +3,5 @@ I usually use abbreviations when I take notes. Here I would like to list some ab
 ∀ - all
 tn - tion
 cont<sup>s</sup> - continuous
-# - number
+\# - number
 fxn - function
