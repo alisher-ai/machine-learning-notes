@@ -8,4 +8,4 @@ Around 5 years ago, when I started my Machine Learning journey, this course was 
 ---
 
 ## [Object Detection Papers](https://github.com/alisher0717/machine-learning-notes/blob/master/object-detection-papers/README.md)
-Original pdf files with annotations (notes, visualizations, brief explanation of various terms and brief summary of related papers).
+I will be sharing the papers I am reading. The shared files would be the original pdf files (paper itself) with annotations: notes, visualizations, brief explanation of various terms and brief summary of related papers.
