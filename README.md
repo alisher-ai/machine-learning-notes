@@ -1,4 +1,4 @@
-# Personal notes on Machine Learning courses/books/papers/books.
+# Personal notes on Machine Learning courses/books/papers.
 
 ---
 
