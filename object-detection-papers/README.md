@@ -9,7 +9,8 @@ I am sharing the papers I read with my personal notes, highlights, supplementary
 
 
 [Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)
-Implementations: [Detectron](https://github.com/facebookresearch/Detectron) | [Keras-retinanet](https://github.com/fizyr/keras-retinanet)
+
+**Implementations:** [Detectron](https://github.com/facebookresearch/Detectron) | [Keras-retinanet](https://github.com/fizyr/keras-retinanet)
 
 ---
 
