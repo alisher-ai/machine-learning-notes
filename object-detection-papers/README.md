@@ -7,3 +7,7 @@ I am sharing the papers I read with my personal notes, highlights, supplementary
 
 
 [Paper](https://arxiv.org/abs/1506.02640) | [Darknet](http://pjreddie.com/yolo/)
+
+## [RetinaNet](): Focal Loss for Dense Object Detection (ICCV 2017)
+
+[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)
