@@ -1,8 +1,15 @@
 # Object Detection Paper notes/annotations
 I am sharing the papers I read with my personal notes, highlights, supplementary informations (brief definition/summary of terms, cited papers) and visualizations. The files are original pdf files with my annotations written on the original pdf file.
 
---- 
+---
 
+## [Co-occurrence Matrix Analysis-based Semi-Supervised Training for Object Detection](https://github.com/alisher0717/machine-learning-notes/blob/master/object-detection-papers/Co-occurrence%20matrix%20in%20object%20detection.pdf) (ICIP 2018)
+
+[<p align="center"> <img src="https://github.com/alisher0717/machine-learning-notes/blob/master/object-detection-papers/images/co-occurrence%20SSL-1.png"/> </p>](https://github.com/alisher0717/machine-learning-notes/blob/master/object-detection-papers/Co-occurrence%20matrix%20in%20object%20detection.pdf)
+
+
+
+---
 ## [RetinaNet](https://github.com/alisher0717/machine-learning-notes/blob/master/object-detection-papers/RetinaNet.pdf): Focal Loss for Dense Object Detection (ICCV 2017)
 
 [<p align="center"> <img src="https://github.com/alisher0717/machine-learning-notes/blob/master/object-detection-papers/images/RetinaNet-architecture.png"/> </p>](https://github.com/alisher0717/machine-learning-notes/blob/master/object-detection-papers/RetinaNet.pdf)
