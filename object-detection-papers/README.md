@@ -1,4 +1,4 @@
-# Object Detection Paper notes/annotations
+# Object detection papers with annotations
 I am sharing the papers I read with my personal notes, highlights, supplementary informations (brief definition/summary of terms, cited papers) and visualizations. The files are original pdf files with my annotations written on the original pdf file.
 
 ---
