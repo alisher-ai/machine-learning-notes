@@ -1,4 +1,4 @@
-# Personal notes on Machine Learning courses/books/papers.
+# Personal notes on Machine Learning courses/books/papers with annotations
 
 ---
 
@@ -7,5 +7,15 @@ Around 5 years ago, when I started my Machine Learning journey, this course was 
 
 ---
 
-## [Object Detection Papers](https://github.com/alisher0717/machine-learning-notes/tree/master/object-detection-papers)
+## [Object detection papers with annotations](https://github.com/alisher0717/machine-learning-notes/tree/master/object-detection-papers)
 I will be sharing the papers I am reading. The shared files would be the original pdf files (paper itself) with annotations: notes, visualizations, brief explanation of various terms and brief summary of related papers.
+
+
+---
+
+
+## [AI and cognitive science related papers with annotations](https://github.com/alisher0717/machine-learning-notes/tree/master/ai-and-cognitive-science)
+
+Cognitive science and artificial intelligence (AI) have a long-standing shared history. Early research in AI was inspired by human intelligence and shaped by cognitive scientists. At the same time, efforts in understanding human learning and processing used methods and data borrowed from AI to build cognitive models that mimicked human cognition. 
+
+[Source: BAICS workshop](https://baicsworkshop.github.io)
