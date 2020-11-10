@@ -1,5 +1,11 @@
 # Personal notes on Machine Learning courses/books/papers with annotations
 
+--- 
+
+
+## [Natural Language Processing Specialization notes](https://github.com/alisher0717/machine-learning-notes/blob/master/coursera-nlp-specialization/README.md) @ [coursera.org]((https://www.coursera.org/specializations/natural-language-processing)) taught by [deeplearning.ai](https://www.deeplearning.ai)
+
+
 ---
 
 ## [Machine Learning course](https://www.coursera.org/learn/machine-learning) notes @ [coursera.org](https://www.coursera.org) taught by [Andrew Ng](https://www.linkedin.com/in/andrewyng/)
